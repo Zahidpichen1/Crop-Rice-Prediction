@@ -49,3 +49,22 @@ A Regression type prediction model using *Random Forest Regressor* algorithm. It
   ##### Docker Hub
   ![test 1 2](https://github.com/user-attachments/assets/3335af03-867c-48cf-a58e-c70fa48d84e6)
 
+
+### Selenium
+1) integrated flask into app.py. And build an html file called index.html inside templates folder.
+2) created selenium_test.py file which contains the selenium code for autotesting app.py
+
+#### Output
+  ### Flask app (Command Prompt)
+  ![test 0 1](https://github.com/user-attachments/assets/75b060d7-06f3-4a39-9fda-781939519d69)
+
+
+  ### Flask app (Web Browser)
+  ![test 0 2](https://github.com/user-attachments/assets/34f6ec18-5520-412f-a77d-380d7731803a)
+
+
+  ### Selenium 
+  ![test 1](https://github.com/user-attachments/assets/068a30f5-98cc-48a7-9e57-b081b4573deb)
+
+  
+
