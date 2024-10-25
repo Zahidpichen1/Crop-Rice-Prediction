@@ -6,10 +6,12 @@ A Regression type prediction model using *Random Forest Regressor* algorithm. It
 ## Steps
 
 ### Building Files
-1) train_model.py: which has regression model code
+1) app.py: which has regression model code
 2) requirements.txt: which has the required library names
-3) crop rice.csv: .csv dataset which includes the data regarding counsumer forcast prediction
+3) Liver Patient Dataset (LPD)_train.csv: .csv dataset which includes the data regarding counsumer forcast prediction
 4) Dockerfile: which contains the commands to be run in docker
+5) selenium_test.py: which contains the selenium code for automated testing
+6) templates/index.html: in contains html (computer language) which is used to display the contents from app.py
 
 ### Git & Other Commands used in Command Prompt
 1) `mkdir <file_name>` to create the folder
