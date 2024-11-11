@@ -1,4 +1,4 @@
-# Consumer Forecast Prediction
+# Crop Rice Prediction
 
 ## Description
 A Regression type prediction model using *Random Forest Regressor* algorithm. It uses R², MAE (Mean Absolute Error) and MSE (Mean Squared Error) as the metric for prediction.
